@@ -1,0 +1,22 @@
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure {
+  height: 250px;
+  width: 250px;
+}
+
+.course-container {
+  display: flex;
+  flex-direction: column;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+}
